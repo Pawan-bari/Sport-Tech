@@ -1,0 +1,64 @@
+
+[
+  {
+    "name": "Dribbling",
+    "level": "Basic",
+    "image": "https://plus.unsplash.com/premium_vector-1757076766931-21790bfd9cc4?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Passing",
+    "level": "Basic",
+    "image": "https://picsum.photos/200/200?random=2"
+  },
+  {
+    "name": "Running",
+    "level": "Basic",
+    "image": "https://picsum.photos/200/200?random=3"
+  },
+  {
+    "name": "Shooting",
+    "level": "Basic",
+    "image": "https://picsum.photos/200/200?random=4"
+  },
+  {
+    "name": "Vault",
+    "level": "Intermediate",
+    "image": "https://plus.unsplash.com/premium_vector-1730046218637-611d145d4b94?q=80&w=919&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Balance",
+    "level": "Intermediate",
+    "image": "https://picsum.photos/200/200?random=6"
+  },
+  {
+    "name": "Coordination",
+    "level": "Intermediate",
+    "image": "https://picsum.photos/200/200?random=7"
+  },
+  {
+    "name": "Sprint",
+    "level": "Intermediate",
+    "image": "https://picsum.photos/200/200?random=8"
+  },
+  {
+    "name": "Agility",
+    "level": "Advanced",
+    "image": "https://plus.unsplash.com/premium_vector-1757721266474-1fc1bdef1cac?q=80&w=897&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Precision",
+    "level": "Advanced",
+    "image": "https://picsum.photos/200/200?random=10"
+  },
+  {
+    "name": "Strategy",
+    "level": "Advanced",
+    "image": "https://picsum.photos/200/200?random=11"
+  },
+  {
+    "name": "Endurance",
+    "level": "Advanced",
+    "image": "https://picsum.photos/200/200?random=12"
+  }
+]
+
